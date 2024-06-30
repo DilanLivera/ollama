@@ -9,7 +9,18 @@ supports importing models from GGUF, PyTorch, and Safetensors.
 - [Ollama](https://github.com/ollama/ollama)
 - [Ollama API](https://github.com/ollama/ollama/blob/main/docs/api.md)
 
-## Phi-3 model
+## Open WebUI
+
+Open WebUI(formerly known as Ollama WebUI) is an extensible, feature-rich, and user-friendly self-hosted WebUI designed
+to operate entirely offline. It supports various language model (LLM) runners, including Ollama and OpenAI-compatible
+APIs.
+
+- [Open WebUI](https://docs.openwebui.com/)
+- [open-webui/open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI) (github.com)](https://github.com/open-webui/open-webui)
+
+## Models
+
+### Phi-3 model
 
 Phi-3 is a family of open AI models developed by Microsoft. These models are designed to be small language models (
 SLMs). Key points about Phi-3:
