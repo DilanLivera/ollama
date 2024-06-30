@@ -1,0 +1,10 @@
+@base_url=http://ollama.phi-3.orb.local
+
+POST {{base_url}}/api/generate
+Content-Type: application/json
+
+{
+  "model": "phi3:mini",
+  "prompt": "Hello there 👋",
+  "stream": false
+}
