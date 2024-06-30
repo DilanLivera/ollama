@@ -1,4 +1,4 @@
-@base_url=http://ollama.phi-3.orb.local
+@base_url=http://ollama.ollama.orb.local
 
 POST {{base_url}}/api/generate
 Content-Type: application/json
