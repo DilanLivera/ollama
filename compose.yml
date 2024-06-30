@@ -1,0 +1,11 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    healthcheck:
+      test: ollama --version || exit 1
+      interval: 10s
+    ports:
+      - 11434:11434
+    volumes:
+      - ./data/ollama:/root/.ollama
