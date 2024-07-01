@@ -18,6 +18,24 @@ APIs.
 - [Open WebUI](https://docs.openwebui.com/)
 - [open-webui/open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI) (github.com)](https://github.com/open-webui/open-webui)
 
+## How To
+
+### Run the Ollama and Open WebUI
+
+- If Docker isn't running, start Docker.
+- Open the terminal and change the directory to the directory of the compose file.
+- Run `docker compose up`
+
+### Chat using Open WebUI
+
+- Open the browser and go to `http://localhost:8080`
+- If you are visiting the Open WebUI for the first time, create an account using the _Sign up_ page.
+- To chat, go to **New Chat**, select a model and send a question.
+
+### Use Ollama API
+
+TODO: Add steps for using Ollama API
+
 ## Models
 
 ### Phi-3 model
