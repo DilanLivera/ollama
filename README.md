@@ -32,6 +32,8 @@ APIs.
 - If you are visiting the Open WebUI for the first time, create an account using the _Sign up_ page.
 - To chat, go to **New Chat**, select a model and send a question.
 
+![open webui chat page](https://github.com/DilanLivera/ollama/assets/35996237/a25b1a36-0891-43d7-af38-bb671ad1d621)
+
 ### Use Ollama API
 
 TODO: Add steps for using Ollama API
